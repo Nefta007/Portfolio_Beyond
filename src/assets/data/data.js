@@ -4,7 +4,8 @@ const data = [
         title: "Coctail Companion",
         repo: "https://github.com/Evanilla57/cocktail-companions",
         href: "https://evanilla57.github.io/cocktail-companions/",
-        img: 'https://github.com/Evanilla57/cocktail-companions/blob/main/assets/images/Screenshot%202023-08-15%20213932.png'
+        src: `${'.images/cocktail-complanions-pic.png'}`
+        //img: 'https://github.com/Evanilla57/cocktail-companions/blob/main/assets/images/Screenshot%202023-08-15%20213932.png'
     },
     {
         id: 2,
