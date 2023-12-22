@@ -1,10 +1,10 @@
-import { Project } from '../components/Project';
-import {mydata} from '../assets/data/data';
-function Portfolio(){
+import  Project  from '../components/Project';
+import data from '../assets/data/data';
+export default function Portfolio(){
     return(
         <div>
             <h1>My Portfolio</h1>
-            <project data={mydata}/>
+            <Project data={data}/>
         </div>
     )
 }

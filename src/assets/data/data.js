@@ -1,4 +1,4 @@
-const mydata = [
+const data = [
     {
         id: 1,
         title: "Coctail Companion",
@@ -28,4 +28,4 @@ const mydata = [
         img: 'https://github.com/Kayla-Sullens/Bookworm-Connection/blob/main/public/images/login_create%20user.png'
     },
 ];
-export default mydata;
+export default data;
