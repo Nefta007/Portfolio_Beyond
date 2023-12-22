@@ -31,5 +31,6 @@ function navTab(){
                 </li>
             </ul>
         </nav>
-    )
+    );
 }
+export default navTab;
