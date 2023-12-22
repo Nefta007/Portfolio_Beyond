@@ -13,7 +13,7 @@ export default function Contact() {
                 </div>
                 <div>
                     <h3>Message</h3>
-                    <input type="text" />
+                    <textarea type ="text" />
                 </div>
                 <div>
                     <button type="submit">Submit</button>
